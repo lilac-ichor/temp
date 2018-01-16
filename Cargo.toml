@@ -1,0 +1,8 @@
+[package]
+name = "tiamat"
+version = "0.1.0"
+authors = ["Callum Li <CallumL1009@gmail.com>"]
+
+[dependencies]
+termion = "*"
+ropey = "0.6.2"
